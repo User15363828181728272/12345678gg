@@ -3,8 +3,8 @@ export const SETTINGS = {
   schoolName: "UPT SMPN 18 GRESIK",
   academicYear: "2023-2026",
   classLogo: "https://files.catbox.moe/qsajsp.jpg",
-  schoolLogo: "https://files.catbox.moe/qsajsp.jpg",
-  schoolPhoto: "https://files.catbox.moe/9e2ivs.png",
+  schoolLogo: "https://files.catbox.moe/9e2ivs.png",
+  schoolPhoto: "https://files.catbox.moe/qsajsp.jpg",
   developer: {
     name: "Defandryan",
     url: "https://defandryan.xte.web.id",
@@ -26,7 +26,7 @@ export const SETTINGS = {
     { id: 1, name: "Abizar", parent: "Ropul", quote: "Quote Siswa 1", photo: "https://via.placeholder.com/400x500?text=Siswa+1", isDev: false },
     { id: 2, name: "Dannis", parent: "Anam", quote: "Quote Siswa 2", photo: "https://via.placeholder.com/400x500?text=Siswa+2", isDev: false },
     { id: 3, name: "Alex", parent: "Ubing", quote: "Quote Siswa 3", photo: "https://via.placeholder.com/400x500?text=Siswa+3", isDev: false },
-    { id: 4, name: "Citra", parent: "Nama Orang Tua 4", quote: "Quote Siswa 4", photo: "https://via.placeholder.com/400x500?text=Siswa+4", isDev: false },
+    { id: 4, name: "Citra", parent: "Ari", quote: "Quote Siswa 4", photo: "https://via.placeholder.com/400x500?text=Siswa+4", isDev: false },
     { id: 5, name: "Angel", parent: "ludi", quote: "Quote Siswa 5", photo: "https://via.placeholder.com/400x500?text=Siswa+5", isDev: false },
     { id: 6, name: "Erga", parent: "sugeng", quote: "Quote Siswa 6", photo: "https://via.placeholder.com/400x500?text=Siswa+6", isDev: false },
     { id: 7, name: "Defandryan", parent: "Rahasia, soalnya saya developer", quote: "Building the future, one line of code at a time.", photo: "https://via.placeholder.com/400x500?text=Defan", isDev: true },
@@ -44,9 +44,9 @@ export const SETTINGS = {
     { id: 19, name: "Ardan", parent: "hadi", quote: "Solikin", photo: "https://via.placeholder.com/400x500?text=Siswa+19", isDev: false },
     { id: 20, name: "Subhan", parent: "is", quote: "Quote Siswa 20", photo: "https://via.placeholder.com/400x500?text=Siswa+20", isDev: false },
     { id: 21, name: "Lia", parent: "Suis", quote: "Quote Siswa 21", photo: "https://via.placeholder.com/400x500?text=Siswa+21", isDev: false },
-    { id: 22, name: "Nashwa", parent: "Nama Orang Tua 22", quote: "Quote Siswa 22", photo: "https://via.placeholder.com/400x500?text=Siswa+22", isDev: false },
+    { id: 22, name: "Nashwa", parent: "Wati", quote: "Quote Siswa 22", photo: "https://via.placeholder.com/400x500?text=Siswa+22", isDev: false },
     { id: 23, name: "Nizam", parent: "ginto", quote: "Ikan hiu makan tomat, di laut gada tomat", photo: "https://via.placeholder.com/400x500?text=Siswa+23", isDev: false },
-    { id: 24, name: "Novi", parent: "Nama Orang Tua 24", quote: "Quote Siswa 24", photo: "https://via.placeholder.com/400x500?text=Siswa+24", isDev: false },
+    { id: 24, name: "Novi", parent: "kandek", quote: "Quote Siswa 24", photo: "https://via.placeholder.com/400x500?text=Siswa+24", isDev: false },
     { id: 25, name: "Silla", parent: "Nama Orang Tua 25", quote: "Quote Siswa 25", photo: "https://via.placeholder.com/400x500?text=Siswa+25", isDev: false },
     { id: 26, name: "Reyhana", parent: "Nama Orang Tua 26", quote: "Quote Siswa 26", photo: "https://via.placeholder.com/400x500?text=Siswa+26", isDev: false },
     { id: 27, name: "Rivera", parent: "Nama Orang Tua 27", quote: "Quote Siswa 27", photo: "https://via.placeholder.com/400x500?text=Siswa+27", isDev: false },
@@ -54,7 +54,7 @@ export const SETTINGS = {
     { id: 29, name: "Saila", parent: "Nama Orang Tua 29", quote: "Quote Siswa 29", photo: "https://via.placeholder.com/400x500?text=Siswa+29", isDev: false },
     { id: 30, name: "Alika", parent: "samsul", quote: "Quote Siswa 30", photo: "https://via.placeholder.com/400x500?text=Siswa+30", isDev: false },
     { id: 31, name: "Sulthan", parent: "budi", quote: "Quote Siswa 31", photo: "https://via.placeholder.com/400x500?text=Siswa+31", isDev: false },
-    { id: 32, name: "Wisnu", parent: "Nama Orang Tua 32", quote: "Quote Siswa 32", photo: "https://via.placeholder.com/400x500?text=Siswa+32", isDev: false }
+    { id: 32, name: "Wisnu", parent: "eko", quote: "Quote Siswa 32", photo: "https://via.placeholder.com/400x500?text=Siswa+32", isDev: false }
   ],
   gallery: {
     fotoKelas: [
