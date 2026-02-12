@@ -22,7 +22,7 @@ export const SETTINGS = {
     sekretaris: { name: "Erga & Alex", role: "Sekretaris" },
     bendahara: { name: "Vika", role: "Bendahara" }
   },
-  Students: [
+  students: [
     { id: 1, name: "Abizar", parent: "Nama Orang Tua 1", quote: "Quote Siswa 1", photo: "https://via.placeholder.com/400x500?text=Siswa+1", isDev: false },
     { id: 2, name: "Dennis", parent: "Nama Orang Tua 2", quote: "Quote Siswa 2", photo: "https://via.placeholder.com/400x500?text=Siswa+2", isDev: false },
     { id: 3, name: "Alex", parent: "Nama Orang Tua 3", quote: "Quote Siswa 3", photo: "https://via.placeholder.com/400x500?text=Siswa+3", isDev: false },
